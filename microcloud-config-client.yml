@@ -18,7 +18,7 @@ eureka:
 
 info:
   app.name: microcloud-config-client-dev
-  company.name: fis    
+  company.name: fis-xiaolu-12345678    
 ---
 server:
   port: 8102
